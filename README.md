@@ -1,6 +1,6 @@
 # Data Analysis for Marijuana Arrests
 
-This project focuses on the analysis of data related to marijuana arrests. It aims to provide insights and uncover patterns and trends in marijuana-related arrests using a data-driven approach.
+This project focuses on the analysis of data related to marijuana arrests. It aims to provide insights and uncover INITIAL patterns and trends in marijuana-related arrests using a data-driven approach.
 
 ## Table of Contents
 
