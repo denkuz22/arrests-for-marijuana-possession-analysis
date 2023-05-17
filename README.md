@@ -37,7 +37,7 @@ The analysis is based on a comprehensive dataset obtained from [[source](https:/
 
 The project utilizes various data analysis techniques, including descriptive statistics, data visualization, and exploratory data analysis (EDA). These techniques help uncover meaningful insights and patterns within the dataset, enabling a deeper understanding of marijuana arrests.
 
-Python programming language and popular libraries such as panda and Plotly are employed to perform the data analysis tasks. The Jupyter Notebook environment is used to document and present the analysis process.
+Python programming language and popular libraries such as pandas and Plotly are employed to perform the data analysis tasks. The Jupyter Notebook environment is used to document and present the analysis process.
 
 ## How to Use
 
